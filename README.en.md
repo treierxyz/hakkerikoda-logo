@@ -1,0 +1,21 @@
+# Tartu Häkkerikoda logo - 2025
+- **Author**: Oliver Jõgar
+- **QA**: Mihkel Martin Kasterpalu
+- **License**: The Unlicense - Public domain
+
+## PNG files
+> [!WARNING]
+> Please do not create PNG files from the pure circle format SVGs, as it leaves ugly edges.
+Use the version with margins for PNGs when possible. This issue does not apply to using SVGs directly.
+
+|                            | Black on white                                                                         | Black on transparent                                                                | White on black                                                                         | White on transparent                                                                |
+|----------------------------|----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| Square format              | <img src="./logos/png/hklogo_square_black_on_white-bg.png" width=200></img>            | <img src="./logos/png/hklogo_square_black_on_no-bg.png" width=200></img>            | <img src="./logos/png/hklogo_square_white_on_black-bg.png" width=200></img>            | <img src="./logos/png/hklogo_square_white_on_no-bg.png" width=200></img>            |
+| Circle format with margins | <img src="./logos/png/hklogo_circle-overlapped_black_on_white-bg.png" width=200></img> | <img src="./logos/png/hklogo_circle-overlapped_black_on_no-bg.png" width=200></img> | <img src="./logos/png/hklogo_circle-overlapped_white_on_black-bg.png" width=200></img> | <img src="./logos/png/hklogo_circle-overlapped_black_on_no-bg.png" width=200></img> |
+
+## SVG files
+|                            | Black on white                                                                         | Black on transparent                                                                | White on black                                                                         | White on transparent                                                                |
+|----------------------------|----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| Square format              | <img src="./logos/svg/hklogo_square_black_on_white-bg.svg" width=200></img>            | <img src="./logos/svg/hklogo_square_black_on_no-bg.svg" width=200></img>            | <img src="./logos/svg/hklogo_square_white_on_black-bg.svg" width=200></img>            | <img src="./logos/svg/hklogo_square_white_on_no-bg.svg" width=200></img>            |
+| Circle format              | <img src="./logos/svg/hklogo_circle_black_on_white-bg.svg" width=200></img>            | <img src="./logos/svg/hklogo_circle_black_on_no-bg.svg" width=200></img>            | <img src="./logos/svg/hklogo_circle_white_on_black-bg.svg" width=200></img>            | <img src="./logos/svg/hklogo_circle_black_on_no-bg.svg" width=200></img>            |
+| Circle format with margins | <img src="./logos/svg/hklogo_circle-overlapped_black_on_white-bg.svg" width=200></img> | <img src="./logos/svg/hklogo_circle-overlapped_black_on_no-bg.svg" width=200></img> | <img src="./logos/svg/hklogo_circle-overlapped_white_on_black-bg.svg" width=200></img> | <img src="./logos/svg/hklogo_circle-overlapped_black_on_no-bg.svg" width=200></img> |
